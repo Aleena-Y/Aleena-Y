@@ -1,5 +1,7 @@
 # 🚀 ALEENA YOGINDAR
 ### AI & Web Development Explorer
+![3bce4969625dda5eb4fdb7693038f08c-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/56eac310-f7bf-496c-a942-55fd26f46cd0)
+
 
 <div align="center">
 
