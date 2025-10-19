@@ -1,10 +1,11 @@
 <div align="center">
-# 🚀 ALEENA YOGINDAR
-### AI & Web Development Explorer
-![3bce4969625dda5eb4fdb7693038f08c-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/56eac310-f7bf-496c-a942-55fd26f46cd0)
-</div>
 
-<div align="center">
+<h1 style="font-size: 3rem; font-weight: 800; color: #ff4b2b; font-family: 'Segoe UI', sans-serif;">🚀 ALEENA YOGINDAR</h1>
+<h3>AI & Web Development Explorer</h3>
+
+<img src="https://github.com/user-attachments/assets/56eac310-f7bf-496c-a942-55fd26f46cd0" alt="AI animation" width="400"/>
+
+</div>
 
 [![Email](https://img.shields.io/badge/Email-aleenayogi@gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleenayogi@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%208660722427-b366ff?style=for-the-badge&logo=phone&logoColor=white)](tel:+918660722427)
