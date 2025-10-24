@@ -18,7 +18,7 @@
 
 ---
 
-## 🌌 About Mission
+## 🌌Mission
 
 Passionate AI & Machine Learning enthusiast exploring the cosmos of data science, neural networks, and innovative web solutions. Currently developing intelligent systems that bridge the gap between cutting-edge AI and practical applications.
 
@@ -51,103 +51,6 @@ Passionate AI & Machine Learning enthusiast exploring the cosmos of data science
 
 ---
 
-## 🌠 Key Missions & Projects
-
-### 🪨 Hazardous Asteroid Classification
-**ML Research Intern @ Spartificial** | Oct 2023 – Dec 2023
-
-Developed an Artificial Neural Network (ANN) model to classify hazardous vs non-hazardous Near-Earth Objects from NASA JPL data with **91% accuracy**.
-
-**Tech Stack:** `Python` `CNN` `ANN` `Data Analysis` `Pandas`
-
----
-
-### 🌌 Galaxy Classification Website
-Interactive web platform to classify galaxies based on shapes using DeCALs dataset. Features VR galaxy models and an engaging trivia section.
-
-**Tech Stack:** `Python` `TensorFlow` `Data Analysis` `Web Development`
-
----
-
-### 💰 Real-Time Fixed Deposit Checker
-Smart dashboard powered by Mistral AI that intelligently queries and recommends the best fixed deposit rates from top 8 banks, including senior-friendly options.
-
-**Tech Stack:** `Web Scraping` `LLM` `Data Parsing` `Hugging Face API`
-
----
-
-### 🍽️ Foodie Goodie
-Personalized restaurant discovery website with dynamic landing page, real-time home delivery tracking, and intelligent coupon management system.
-
-**Tech Stack:** `React.js` `JavaScript` `Express.js` `HTML/CSS`
-
----
-
-## ⭐ Achievements & Discoveries
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 Citizen Scientist
-**SSERD, Bangalore** | March 2023
-
-Preliminary asteroid discovery (**P21DAIC**) through International Asteroid Search Collaboration via PAN-STARRS imagery analysis.
-
-**Skills:** Astrometrica • Data Analysis
-
-</td>
-<td width="50%">
-
-### 🤖 IBM WatsonX Gen AI
-**Certified** | 2024
-
-Advanced certification in Generative AI. Created a "Chat with Your Notes" system using Google Flan T5 Large model.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 Strong Academics
-**VIT Chennai**
-
-**CGPA:** 8.66 | **12th Grade:** 91.4% | **10th Grade:** 95.8%
-
-</td>
-<td width="50%">
-
-### 🎨 Community Leader
-**Student Coordinator & Organizer**
-
-Active in Ramji Rao, Animation & Socrates clubs. Managing events and social media outreach.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Experience Overview
-
-| Role | Organization | Duration | Focus |
-|------|--------------|----------|-------|
-| **ML Research Intern** | Spartificial | Oct 2023 – Dec 2023 | ANN Models, NEO Classification |
-| **Citizen Scientist** | SSERD | March 2023 | Asteroid Discovery & Analysis |
-| **Current** | VIT Chennai | 2023 – Present | AI, ML, Web Development |
-
----
-
-## 📚 Education
-
-**Vellore Institute of Technology, Chennai**
-- B.Tech Computer Science & Engineering (Data Science Specialization)
-- CGPA: 8.66 | Currently in 3rd Year
-
-**Lake Montfort School, Bengaluru**
-- 12th Grade: 91.4% | 10th Grade: 95.8%
-
----
 
 ## 🌍 Let's Connect
 
